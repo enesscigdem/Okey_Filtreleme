@@ -1,6 +1,6 @@
 # Okey_Filtreleme
 
-  /*  --- PROJE AÇIKLAMASI ---
+/*  --- PROJE AÇIKLAMASI ---
 
         Masa Özellikleri Sayfası : 
         ----------------------------
@@ -22,7 +22,17 @@
         1- Bu sayfa ekstra olarak tasarlanmıştır. Kullanıcının seçtiği bahis tutarı ve filtreler bu masada ekrana yazdırılmaktadır.
 
 
-        EK OLARAK KOD SAYFALARINDA DA KOD AÇIKLAMALARI YAPILMIŞTIR. BURADA PROJENİN KÜÇÜK TANITIMI YAPILMIŞTIR.
+
+        ************ ÖNEMLİ ************
+        
+        Aşağıdaki cümleye dayanarak, oyuncu sadece "Evet" seçeneğini işaretlediği takdirde masa bulunacaktır. Ayrıca aşağıdaki cümleye dayanarak programa yavaş, çiftli ve rövanşsız masa seçenekleri eklenmemiştir.
+
+        --> Oyuncu bu filtrede Evet olarak işaretlemediği masa tipteki masaları görüntülememelidir. 
+
+
+        ----------------------------------------------------------------------------------------------------------------
+
+        EK OLARAK KOD SAYFALARINDA DA KOD AÇIKLAMALARI YAPILMIŞTIR. BURADA PROJENİN KÜÇÜK TANITIMI YAPILMIŞTIR. 
 
         - ENES ÇİĞDEM -
- */
+        */
